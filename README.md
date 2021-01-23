@@ -1,5 +1,6 @@
 # Warningnet - Deep Learning based Early Warning Generator
-Repository for our work on WarningNet to be presented in DAC 2020
+Repository for our work on WarningNet
+
 
 ## Table of Contents
 - Installation
