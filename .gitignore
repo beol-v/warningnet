@@ -1,0 +1,5 @@
+checkpoints/
+command.sh
+data/__pycache_
+__pycache__/
+venv

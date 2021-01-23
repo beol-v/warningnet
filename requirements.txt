@@ -1,0 +1,10 @@
+pip>=19
+torch==0.4.0
+numpy
+opencv-python
+matplotlib
+torchvision==0.2.0
+matplotlib
+tqdm
+scipy
+cffi
